@@ -7,6 +7,13 @@
     "path": "data/md/accessing-admin-managing-resources.md"
   },
   {
+    "title": "article-001",
+    "description": "article-001",
+    "date": "2024-08-16T01:40:46.155Z",
+    "lastModified": "2024-08-16T01:40:48Z",
+    "path": "data/md/article-001.md"
+  },
+  {
     "title": "Configuring Environment Variables for GitBase",
     "description": "How to configure GitBase environment variables",
     "date": "2024-08-11T13:08:05.474Z",
